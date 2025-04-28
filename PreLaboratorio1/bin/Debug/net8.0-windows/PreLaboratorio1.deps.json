@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PreLaboratorio1/1.0.0": {
+        "runtime": {
+          "PreLaboratorio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PreLaboratorio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
